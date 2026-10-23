@@ -177,8 +177,8 @@ pytest -v
 
 ## 👤 8. Identificação do Autor
 
-* **Estudante / Autor:** [SEU NOME COMPLETO AQUI]
-* **Matrícula:** [SUA MATRÍCULA AQUI]
+* **Estudante / Autor:** Taagny Augusto Reis da Silva
+* **Matrícula:** 231-002750
 * **Curso:** Ciência da Computação
 * **Disciplina:** Inteligência Artificial
 * **Instituição:** Centro Universitário Presidente Antônio Carlos — UNIPAC Barbacena
