@@ -98,7 +98,7 @@ Para mais detalhes sobre as personas e o relatório de desambiguação dos pares
 ## 🛠️ 5. Estrutura de Diretórios do Projeto
 
 ```text
-atividadeAECO/
+consultor-carreiras-ti/
 ├── .gitignore                   # Exclusão de venv, cache, IDEs e arquivos temporários
 ├── pytest.ini                   # Configuração de execução do Pytest (pythonpath = .)
 ├── README.md                    # Este documento completo
@@ -139,7 +139,8 @@ Para resolver esse problema de forma elegante e transparente sem exigir modifica
 ### Passo 1: Clonar ou Acessar a Pasta do Projeto
 Abra o terminal (PowerShell, Bash ou Prompt de Comando) na raiz do projeto:
 ```bash
-cd atividadeAECO
+git clone https://github.com/taagny/consultor-carreiras-ti.git
+cd consultor-carreiras-ti
 ```
 
 ### Passo 2: Criar e Ativar o Ambiente Virtual
